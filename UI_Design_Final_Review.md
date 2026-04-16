@@ -87,6 +87,8 @@ Actor ↔ system interaction. Main + alternative flows. System responsibilities.
 - Alternative / exception flows
 - Postconditions
 
+---
+
 ### Nielsen Heuristics
 
 #### 1. Visibility of System Status
