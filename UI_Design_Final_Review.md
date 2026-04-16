@@ -141,6 +141,8 @@ Error messages should be expressed in plain language (no error codes), precisely
 It's best if the design doesn't need any additional explanation. However, it may be necessary to provide documentation to help users complete their tasks.
 *Ex. Information kiosks at airports are easily recognizable and solve customers' problems in context and immediately.*
 
+---
+
 ### Requirements & Task Analysis (Lec 6)
 
 #### Task Analysis
@@ -312,6 +314,8 @@ Simple mapping you can include in your write-up:
 - Prevents random "features" with no user need
 - Makes your later wireframes defensible
 
+---
+
 ### Information Architecture (IA) (Lec 8)
 
 #### Definition
@@ -456,6 +460,8 @@ _Example:_ a recipe app's step-by-step view is shaped by the content itself (ing
 
 Most real IAs combine both: top-down to answer user questions, bottom-up to handle the actual content.
 
+---
+
 ### Card Sorting (Lec 9)
 
 #### What Is Card Sorting?
@@ -521,6 +527,8 @@ After the sort itself, ask participants to identify:
 
 These debrief questions often surface the most useful insights — the edge cases where the IA will struggle.
 
+---
+
 ### GESTALT (Lec 10)
 
 #### What Are Gestalt Principles?
@@ -568,6 +576,8 @@ _Classic example:_ the **Google homepage** - logo centered, search bar centered 
 The eye **differentiates an object (figure) from its surrounding area (ground).** A shape is perceived as the figure while everything around it becomes background. Which region the viewer picks as "figure" vs "ground" can sometimes flip - the classic optical illusion of two faces vs a vase.
 
 _Design use:_ modal dialogs darken the page behind them so the modal unambiguously becomes figure. Poster designs (Melbourne Food & Wine Festival - the negative space between wine bottles forms a fork; Peter and the Wolf - the wolf's body forms the profile of a boy's face) play deliberately with this ambiguity.
+
+---
 
 ### Interaction Design (IxD) (Lec 10 + 11)
 
@@ -642,6 +652,8 @@ Areas where IxD is actively being reshaped:
 - **Wearables & ubiquitous computing** - smartwatches, IoT devices
 
 ## Post-Midterm (60%)
+
+---
 
 ### Dark Patterns (Lec 15)
 
@@ -736,6 +748,8 @@ What to look for:
 		- Unexpected charges; disputes; long-term distrust.
 	- Fair alternative
 		- Clear renewal terms + reminders + easy cancel (same channel).
+ 
+---
 
 ### UX Laws & Cognition (Lec 16)
 
@@ -790,6 +804,8 @@ Users spend most of their time on other sites → they prefer your site to work 
 - Conventions reduce learning cost (navigation, icons, forms, checkout)
 - Breaking conventions requires strong payoff + clear signposting
 - In dark patterns, breaking conventions is used to trick (e.g., "X" doesn't close)
+
+---
 
 ### WCAG Principles and Guidelines (Lec 17 + 18)
 
@@ -854,6 +870,8 @@ Content must be designed to work well across a variety of devices, browsers, and
 Playlist suggested by Zhao herself:
 
 [WCAG YouTube Playlist](https://www.youtube.com/playlist?list=PLWSYD-KxdDxvhRinqF4EufZF5mgazU23a)
+
+---
 
 ### HCI Research Methods (Lec 19)
 
@@ -1011,6 +1029,8 @@ Playlist suggested by Zhao herself:
 - aims to assess or compare
 - common examples: benchmarking, comparison tests, performance metrics
 
+---
+
 ### HCI Data Analysis (Lec 20)
 
 #### Quantitative Data Analysis
@@ -1116,6 +1136,8 @@ Qualitative data answers WHY - the numbers tell you what happened; qual tells yo
 2. Support every theme with 1–2 participant quotes
 3. Interpret the theme - connect it to design implications
 4. Don't just describe; analyze and argue
+
+---
 
 ### Future of UX (Lec 21)
 
@@ -1305,6 +1327,8 @@ Qualitative data answers WHY - the numbers tell you what happened; qual tells yo
 - **Test with real humans:**  There is no AI substitute for a usability session. Bring 5 representative users in. Watch them use the product. You will always learn something that changes the design.
 - **Take responsibility:** The designer is accountable for the final product - not the tool that helped make it. Accessibility failures, biased outputs, misleading copy, unclear flows: these are design failures, regardless of origin.
 - **Frame the right problem:** AI answers the question you ask. Asking the right question — defining the actual problem, not the surface symptom — is the most strategic design skill and the one AI most lacks.
+
+---
 
 ### Smallville Paper (Lec 22)
 
